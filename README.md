@@ -1,2 +1,4 @@
 # WINDOWS_COMMANDS
-These are the commands to repair or install before downloading read the README (Optional)
+Welcome to Windows Commands!
+MANDATORY !!! Before continuing read this file.
+These files derive from windows and not from linux or GNU these files were built by me obviously in English these files have been checked 100% if something does not add up write in the commands on github and it is mandatory to have windows 10 1507 up to 22h2 windows 11 21h2 at 11pm On old computers, files will be sent to optimize your computer (If you have problems) or if your personal computer is slow I will send you files to optimize your PC, if you have a used computer but it doesn't work e.g. Bios error or Blue Screen (BSOD) I also send you the files to repair your computer but BEWARE!! I want you to pay attention a little!! These commands were built by me for windows 10 and 1 computers, but if it still doesn't work the computer will have to reinstall widnwos from scratch.
